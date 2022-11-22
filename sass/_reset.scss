@@ -110,7 +110,8 @@ svg {
 
 /* Configuramos la tipografía para toda la web */
 body {
+	width: 100%;
 	min-height: 100vh;
-	font-size: 100%;
+	font-size: 16px;
 	font-family: var(--tipo-principal);
 }
